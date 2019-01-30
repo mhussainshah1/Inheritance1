@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.company</OriginalElement>
+  <nodes>
+    <node x="44.75" y="0.0">com.company.Product</node>
+    <node x="0.0" y="155.0">com.company.Main</node>
+    <node x="95.0" y="80.0">com.company.Software</node>
+    <node x="0.0" y="80.0">com.company.Book</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.company.Software" target="com.company.Product">
+      <point x="0.0" y="-15.0" />
+      <point x="142.0" y="55.0" />
+      <point x="112.25" y="55.0" />
+      <point x="22.5" y="15.0" />
+    </edge>
+    <edge source="com.company.Book" target="com.company.Product">
+      <point x="0.0" y="-15.0" />
+      <point x="37.5" y="55.0" />
+      <point x="67.25" y="55.0" />
+      <point x="-22.5" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.9000000000000008" x="94.50000000000011" y="92.5" />
+  <SelectedNodes>
+    <node>com.company.Book</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
